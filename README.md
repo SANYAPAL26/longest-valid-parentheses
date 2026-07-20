@@ -25,3 +25,36 @@ O(n)
 ## Language
 
 Python
+## Example Test Cases
+
+Input:
+```
+s = "(()"
+```
+
+Output:
+```
+2
+```
+
+Input:
+```
+s = ")()())"
+```
+
+Output:
+```
+4
+```
+
+Input:
+```
+s = ""
+```
+
+Output:
+```
+0
+```
+
+
